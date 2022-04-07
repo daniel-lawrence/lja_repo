@@ -1,1 +1,2 @@
-# Notes\nThis is a second file.
+# Notes
+This is a second file.
